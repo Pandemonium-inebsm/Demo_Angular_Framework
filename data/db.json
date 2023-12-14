@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": "ichraq",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJpY2hyYXEiLCJpYXQiOjE1MTYyMzkwMjIsImV4cCI6MTUxNjIzOTAyMiwiaXNzIjoiaHR0cDovL2xvY2FsaG9zdDo4ODg4L2F1dGgiLCJmaXJzdG5hbWUiOiJJY2hyYXEiLCJsYXN0bmFtZSI6IkVzc2FkZXEiLCJlbWFpbCI6ImkuZXNzYWRlcUBtdW5kaWFwb2xpcy5tYSIsInJvbGVzIjpbIlVTRVIiLCJBRE1JTiJdfQ.yci1gSWG2qLkAEEatClPUke93X416VxXp1GHqPbHQhM"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 12000,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 5000,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 2000,
+      "checked": true
+    },
+    {
+      "name": "Ipad",
+      "price": "20000",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "id": 6,
+      "name": "Iphone",
+      "price": "15000",
+      "checked": true
+    },
+    {
+      "name": "PC",
+      "price": "1500",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "hhju",
+      "price": 0,
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "Dell",
+      "price": "2000",
+      "checked": true,
+      "id": 9
+    }
+  ]
+}
